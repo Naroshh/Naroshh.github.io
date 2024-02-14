@@ -26,13 +26,19 @@ Open the index.html file in your web browser.
 Explore the different sections of the website.
 
 **header**
-![localhost_3000_startbootstrap-creative-gh-pages_index html](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/222c95d9-8ed4-4b30-9eb3-d3989cd590a0)
+![localhost_3000_startbootstrap-creative-gh-pages_index html](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/ae7a137f-4e96-47a2-ac11-0a8a0a23f9d9)
+
 **about me section**
-![localhost_3000_startbootstrap-creative-gh-pages_index html 2](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/9cffc914-0272-460e-b6da-e75887d0c95e)
+
+![localhost_3000_index html (23232](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/5d0d2574-fd50-47b5-b6c3-8fc8a9bd7bb9)
+
+
 **experiences**
-![localhost_3000_startbootstrap-creative-gh-pages_index html 3](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/90dec0b1-e459-4023-8a85-015fface2674)
+![localhost_3000_index html 2323](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/fde5aeba-9c83-45a6-b139-5e0b3aa36cb3)
+
+
 **galery osio **
-![localhost_3000_startbootstrap-creative-gh-pages_index html (1)](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/d942f15e-e8d0-4304-beed-1a7c8e4bb41a)
+![localhost_3000_startbootstrap-creative-gh-pages_index html (1)](https://github.com/Naroshh/Naroshh.github.io/assets/87419255/1cf75d8f-66a3-4661-bbad-c7fdc67b028c)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
