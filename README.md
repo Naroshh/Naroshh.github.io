@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgements
 This website was built using the Bootstrap framework.
-Special thanks to OpenAI for providing the ChatGPT model used for generating this README.
+
